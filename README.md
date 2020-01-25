@@ -1,5 +1,5 @@
 # KEZMediaPlayer
-This is a media player developed with JavaFX library.
+This is a media player developed with JavaFX library and Scene Builder.
 
 ## Features
 KEZMediaPlayer includes following features:-

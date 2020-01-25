@@ -1,0 +1,82 @@
+
+
+/*#playBtn{*/
+/*   -fx-background-image: url("../icons/play.png");*/
+/*   -fx-background-size: 30 30 ;*/
+/*   -fx-background-repeat: no-repeat ;*/
+/*   -fx-background-position: center;*/
+
+
+
+
+#pauseBtn{
+    -fx-background-image: url("../icons/pause.png");
+    -fx-background-size: 30 30 ;
+    -fx-background-repeat: no-repeat ;
+    -fx-background-position: center;
+}
+
+#borderPane{
+    -fx-background-color: Black;
+
+}
+#vBox{
+    -fx-background-color: rgba(255,255,255,1);
+}
+#preBtn{
+    -fx-background-image: url("../icons/previous.png");
+    -fx-background-size: 24 24 ;
+    -fx-background-repeat: no-repeat ;
+    -fx-background-position: center;
+}
+
+#nxtBtn{
+    -fx-background-image: url("../icons/next.png");
+    -fx-background-size: 24 24 ;
+    -fx-background-repeat: no-repeat ;
+    -fx-background-position: center;
+}
+
+#stopBtn{
+    -fx-background-image: url("../icons/stop.png");
+    -fx-background-size: 24 24 ;
+    -fx-background-repeat: no-repeat ;
+    -fx-background-position: center;
+}
+
+#skipb15{
+    -fx-background-image: url("../icons/skipb15.png");
+    -fx-background-size: 34 34 ;
+    -fx-background-repeat: no-repeat ;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+
+#skipa15{
+    -fx-background-image: url("../icons/skipa15.png");
+    -fx-background-size: 34 34 ;
+    -fx-background-repeat: no-repeat ;
+    -fx-background-position: center;
+    -fx-background-color: transparent;
+}
+
+#slow{
+    -fx-background-image: url("../icons/slow.png");
+    -fx-background-size: 24 24 ;
+    -fx-background-repeat: no-repeat ;
+    -fx-background-position: center;
+}
+
+#fast{
+    -fx-background-image: url("../icons/fast.png");
+    -fx-background-size: 24 24 ;
+    -fx-background-repeat: no-repeat ;
+    -fx-background-position: center;
+}
+
+#reload{
+    -fx-background-image: url("../icons/reload.png");
+    -fx-background-size: 24 24 ;
+    -fx-background-repeat: no-repeat ;
+    -fx-background-position: center;
+}

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="KEZMediaPlayer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/KEZMediaPlayer_jar</output-path>
+    <root id="archive" name="KEZMediaPlayer.jar">
+      <element id="module-output" name="KEZMediaPlayer" />
+    </root>
+  </artifact>
+</component>

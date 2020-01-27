@@ -14,8 +14,8 @@ KEZMediaPlayer includes following features:-
 * Skip 15 seconds up/down
 
 ### Other features
-Play/Pause with KEYBOARD.SPACE key.
-Skip 15 seconds up and down with KEYBOARD.UP & KEYBOARD.DOWN keys.
-Fullscreen with KEYBOARD.F key.
-Hide Menubars with MOUSE.DOUBLECLICK.
+Play/Pause with KEYBOARD.SPACE key.\
+Skip 15 seconds up and down with KEYBOARD.UP & KEYBOARD.DOWN keys.\
+Fullscreen with KEYBOARD.F key.\
+Hide Menubars with MOUSE.DOUBLECLICK.\
 
